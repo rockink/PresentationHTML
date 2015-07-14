@@ -16,7 +16,7 @@ It just creates something that looks cool in HTML. Here is how I used.
          StringBuilder sb = new StringBuilder();
          for (int i = 0; i < convert.getSlideCount(); i++) {
             
-              sb.append(convert.getSlide(i);
+              sb.append(convert.getSlide(i));
               
          }
          
