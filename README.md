@@ -1,6 +1,8 @@
 # PresentationHTML
 
-This converts the Open XML presentation format (pptx) to HTML, with just CSS and html involved. It doesn't use javascript. What it does is following:
+
+
+This converts the Open XML presentation format (pptx),  to HTML, with just CSS and html involved. It doesn't use javascript. What it does is following:
 
   1. Converts the picture right in the position it is.
   2. Put the texts as it is.
@@ -32,3 +34,4 @@ It just creates something that looks cool in HTML. Here is how I used.
   https://blog-rockink.rhcloud.com/webresources/html/presentationHTML
   
   
+It is developed in Linux, and tested with pptx fils using Libre Office. 
