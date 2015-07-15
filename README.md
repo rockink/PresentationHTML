@@ -34,4 +34,4 @@ It just creates something that looks cool in HTML. Here is how I used.
   https://blog-rockink.rhcloud.com/webresources/html/presentationHTML
   
   
-It is developed in Linux, and tested with pptx fils using Libre Office. 
+It is developed in Linux, and tested with pptx files using  Libre Office. 
