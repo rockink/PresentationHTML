@@ -31,7 +31,5 @@ It just creates something that looks cool in HTML. Here is how I used.
   This is what I created, but with some libraries. 
   
   
-  https://blog-rockink.rhcloud.com/webresources/html/presentationHTML
   
-  
-It is developed in Linux, and tested with pptx files using  Libre Office. 
+It is developed in Linux, and tested with pptx files using  Libre Office. There are some problems with Microsoft Office Presentation though.
